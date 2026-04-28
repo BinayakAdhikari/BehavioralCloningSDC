@@ -4,7 +4,8 @@
 
 ![Demo image](image.png)
 
-[Watch the driving demo (self_drivinng_car.mov)](self_drivinng_car.mov)
+https://github.com/user-attachments/assets/b22aeb13-f609-4cc3-a2f1-d22ac94f2d77
+
 
 ## Summary
 
